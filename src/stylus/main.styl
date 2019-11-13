@@ -1,0 +1,58 @@
+section.block.fullwidth {
+	//max-width none
+	//margin 0
+	.block-content {
+		margin-top 0
+		margin-bottom 0
+		.map {
+			margin-bottom 0
+		}
+	}
+}
+
+.map {
+	height 50vh
+	max-height 50vh
+	margin-left -($articleMarginSmall)
+	margin-right -($articleMarginSmall)
+}
++isAbove($laptop) {
+	.map {
+		height 50vw
+		margin-left -($articleMarginLarge)
+		margin-right -($articleMarginLarge)
+	}
+}
+
+h1, h2, section.block h1 {
+	color #444
+}
+@import "actions"
+
+.SiteHeader, .SiteNav {
+	a {
+		color inherit
+	}
+}
+
+.block-content a {
+	color #4796a1
+	text-decoration underline
+	border none
+	&:hover {
+		background none
+	}
+}
+.block-content>.toc+ul a:hover {
+	border none
+}
+
+.article .article__headerImage .responsiveImage { padding-bottom: 33%}
+
+table img {
+    max-width: 300px;
+}
+
+.Site__footer__content {
+	font-weight: bold;
+}
