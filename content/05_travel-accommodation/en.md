@@ -51,7 +51,7 @@ How to get out of there (train, taxi, etc.)
 
 ---
 
-## Travel requirements for entering the Netherlands
+## Travel requirements for entering the United States
 
 GB27 participants are responsible for preparing their own travel documentation requirements for entering the United States. Visa invitation letters can be provided as requested. 
 
