@@ -44,9 +44,7 @@ Further hotel options are available at [visitalexandriava.com/hotels/](https://w
 
 ## Arriving in the United States
 
-There are a two major international airports in the Washington, DC region: the [Washington Dulles International airport (IAD)](https://www.flydulles.com/iad/dulles-international-airport) located xx miles from the meeting venue, and the [Baltimore/Washington International Thurgood Marshall Airport (BWI)](https://www.bwiairport.com/) located xx miles from the meeting venue. 
-
-How to get out of there (train, taxi, etc.)
+There are a two major international airports in the Washington, DC region: the [Washington Dulles International airport (IAD)](https://www.flydulles.com/iad/dulles-international-airport) located 30 miles from the meeting venue, and the [Baltimore/Washington International Thurgood Marshall Airport (BWI)](https://www.bwiairport.com/) located 41 miles from the meeting venue. 
 
 
 ---
