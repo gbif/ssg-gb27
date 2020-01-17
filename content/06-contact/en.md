@@ -1,6 +1,6 @@
 ---
 title: Contact
-description: Learn how to direct questions to the organizers of GB25
+description: Learn how to direct questions to the organizers of GB27
 image: /images/Field_small.jpg
 imageTitle: Flower field Netherlands (hyacinths and tulips) by Ramon Boersbroek
 imageLink: https://flic.kr/p/TPWpkA
@@ -13,14 +13,9 @@ Universitetsparken 15
 DK-2100 Copenhagen
 Denmark
 Phone: +45 35 32 14 70
-[GB26@gbif.org](mailto:GB26@gbif.org)
+[GB27@gbif.org](mailto:GB27@gbif.org)
 [www.gbif.org](http://www.gbif.org)
 
-**Dutch host**
+**American host**
 
-**Naturalis Biodiversity Center**
-Darwinweg 2
-2333 CR  Leiden
-
-Contact person: [Mil de Reus](mailto:mil.dereus@naturalis.nl)
 
