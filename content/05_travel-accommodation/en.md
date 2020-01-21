@@ -51,13 +51,14 @@ There are a two major international airports in the Washington, DC region: the [
 
 ## Travel requirements for entering the United States
 
-GB27 participants are responsible for preparing their own travel documentation requirements for entering the United States. Visa invitation letters can be provided as requested. 
+GB27 participants are responsible for preparing their own travel documentation requirements for entering the United States. 
 
 ### Visa
 
-Information to be provided by the local organizer. 
-
 If you need a visa to enter the United States, please make sure to apply well in advance of the meeting. 
+Visa invitation letters can be provided as requested. 
+
+ADD INFORMATION FROM LOCAL ORGANIZER
 
 
 
@@ -70,12 +71,7 @@ Participants are advised to ensure appropriate travel insurance for travel to th
 
 ## General travel information
 
-
-### Currency
-
-
-### Weather
-
+ADD INFORMATION FROM LOCAL ORGANIZER
 
 
 
@@ -83,7 +79,7 @@ Participants are advised to ensure appropriate travel insurance for travel to th
 
 ## Tourist information 
 
-
+ADD INFORMATION FROM LOCAL ORGANIZER
 
 
 
