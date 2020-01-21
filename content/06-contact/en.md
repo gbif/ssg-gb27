@@ -16,6 +16,6 @@ Phone: +45 35 32 14 70
 [GB27@gbif.org](mailto:GB27@gbif.org)
 [www.gbif.org](http://www.gbif.org)
 
-**American host**
+
 
 
