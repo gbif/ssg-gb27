@@ -1,9 +1,9 @@
 ---
 title: Programme
 description: Programme the 27th meeting of the GBIF Governing Board 
-image: /images/Darter_small.jpg
-imageTitle: Brown Darter, Sympetrum striolatum Bruinrode heidelibel by Corine Bliek
-imageLink: https://www.flickr.com/photos/147485441@N04/36297182553/in/photolist-XisxNi-22kn82Y-29v33bw-dB6XL7-23swWJf-mZvcZW-W44Rrj-24UXGHN-24ffvWY-UGQXHT-TTWCg8-UKm5Sh-22NcUng-T1jer5-7gLpx-TSCqSh-dxfnTT-23wbZmD-jAvdnH-RnKCH9-E24sqM-pmiP7C-dwdkbx-W2DNpq-XxYCkd-TpjnB1-33tZpR-U7bfpw-216g6Rk-Uiu2mE-WwWmE8-SPawvv-SQqpeq-pqfsJU-Xbygom-23uqTAe-Tr6AXw-nQwWY8-UiiwAU-UQSaZF-2cSrGDi-27mF4Sv-pGfkEo-WzecAm-UyvC7K-TrqdJd-YtSpxB-21Tu84N-22F3aS6-JayVgU
+image: /images/trees_small.jpg
+imageTitle: Hall of Mosses Trail, Hoh Rainforest by Tjflex2
+imageLink: https://flickr.com/photos/tjflex/29795744331/in/photolist-MoWYHR-Nr2z1y-Zhubsv-25bRZkP-N6pkGi-P4ZmU3-ZthYRY-2bFoGFj-DxwnD6-qaUCFu-KAowTq-26Kzoen-YwHM4n-LiAeKD-634LQW-ea1Z4C-29ZHGuW-26aHbun-KnRRyc-JCN9iX-R3ixs8-MBzomR-CZHGkJ-2273hLY-qU4Hq7-26Xt5Mm-2b2bHNj-21uLVPE-ZkhqcL-2dYVn5P-29HFKwY-FAtSVh-gfr3fH-25tMEn7-27u5JWP-29YfFb3-RmZSsP-25RZ9M6-Jkcnbr-MuR1m7-YTZDFZ-PVc2nZ-TKnDmo-XWJupa-ksReKU-zX3r9a-KBjbjm-21s37qq-HVf6wo-HZ5ChY
 
 ---
 
@@ -97,10 +97,9 @@ Venue: to be confirmed
 ### Wednesday 23 - Friday 25 September 2020
 
 **Biodiversity Summit 2020**
-Time: to be confirmed
 Venue: [The Westin Alexandria Old Town](https://www.marriott.com/hotels/travel/wasxw-the-westin-alexandria-old-town/)
 
-*Information about the Biodiversity Summit 2020 will be made available shortly*
+*More information and registration link for the Biodiversity Summit 2020 can be found [here](https://www.idigbio.org/content/biodiversity-summit-2020)*
 
 
 
