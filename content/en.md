@@ -2,8 +2,8 @@
 title: Home
 description: Welcome the 27rd meeting of the GBIF Governing Board 
 image: https://api.gbif.org/v1/image/unsafe/900x300/https%3A%2F%2Fstatic.inaturalist.org%2Fphotos%2F4598478%2Foriginal.jpeg%3F1471528024
-imageTitle: Yellow meadow by Sathish J
-imageLink: https://flickr.com/photos/sathishcj/6882692726/in/photolist-bucAKY-c1jEYN-9dC7os-24fqqHN-RW2JKX-21ZD8gA-Ftye4f-292mAi6-YwaYB5-22hGqCJ-29128ss-YwaYP9-2aNMUHi-VzXVXo-KM3Nnt-YwaZaj-YwaZ6G-C1SPEE-24o6J51-28cpYRD-2a83bzk-ZcBYD9-Stu7er-BN9q9Y-26oK4Po-YwaZcy-M55dEA-26oK4RC-26sdyUz-2cPv6rS-2cTTjL8-27p5a1D-2bvc1VH-28X3HZj-X5kgwc-FEfe1q-ShiUhA-21dKx5N-23rQirN-SSagHF-vLVXoG-TWJDeV-24JqgTY-wqYKVb-i6SyhK-qST7Jk-Crmzgi-rqNTMy-rLdojo-TGRseS
+imageTitle: Hall of Mosses Trail, Hoh Rainforest by Tjflex2
+imageLink: https://flickr.com/photos/tjflex/29795744331/in/photolist-MoWYHR-Nr2z1y-Zhubsv-25bRZkP-N6pkGi-P4ZmU3-ZthYRY-2bFoGFj-DxwnD6-qaUCFu-KAowTq-26Kzoen-YwHM4n-LiAeKD-634LQW-ea1Z4C-29ZHGuW-26aHbun-KnRRyc-JCN9iX-R3ixs8-MBzomR-CZHGkJ-2273hLY-qU4Hq7-26Xt5Mm-2b2bHNj-21uLVPE-ZkhqcL-2dYVn5P-29HFKwY-FAtSVh-gfr3fH-25tMEn7-27u5JWP-29YfFb3-RmZSsP-25RZ9M6-Jkcnbr-MuR1m7-YTZDFZ-PVc2nZ-TKnDmo-XWJupa-ksReKU-zX3r9a-KBjbjm-21s37qq-HVf6wo-HZ5ChY
 ---
 
 # GB27 United States of America
