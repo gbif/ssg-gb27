@@ -7,6 +7,17 @@ imageLink: https://www.flickr.com/photos/ronaldc5/19987019389/in/photolist-wsbGw
 ---
 # Registration
 
-The registration is not yet open. 
+Before registering, we kindly ask you to read the requirements for registering for the various events in the ['General Terms and Conditions for the GB27 meeting'](GB27_terms.pdf).
+
+Please note that your registration for the GBIF events is not considered complete until you receive a confirmation email from the GBIF Secretariat, which will list the events for which you have successfully registered. 
+
+Click [here](xxxx] to register for the GBIF GB27 events. 
+
+The GB27 registration closes on **6 September 2020**.
+
+If you wish to attend the [Biodiversity Summit 2020](https://www.idigbio.org/content/biodiversity-summit-2020), please click [here](https://www.eventbrite.com/e/biodiversity-summit-2020-tickets-85264844445) to register. 
+
+
+
 
 
