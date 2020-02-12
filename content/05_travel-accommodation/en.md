@@ -1,7 +1,7 @@
 ---
 title: Travel and accommodation
 description: Learn more about the event along with other tips and pointers for those travelling to the United States
-image: /images/Naturalis_small.jpg
+image: /images/trolley.jpg
 imageTitle: Naturalis Biodiversity Center
 imageLink: 
 ---
@@ -22,10 +22,6 @@ The Westin Alexandria Old Town
 Alexandria, Virginia 22314
 United States
 [marriott.com/hotels/travel/wasxw-the-westin-alexandria-old-town/](https://www.marriott.com/hotels/travel/wasxw-the-westin-alexandria-old-town/)
-
-
-Conference location: The Westin Alexandria Old Town; 400 Courthouse Square, Alexandria, Virginia 22314-5700 USA
-Reception location: Smithsonian National Museum of Natural History - Constitution Avenue (north) entrance
 
 
 ---
