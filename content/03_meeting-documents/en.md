@@ -1,9 +1,9 @@
 ---
 title: Meeting documents
 description: Official meeting documents for GB27
-image: /images/Goldfinch_small.jpg
-imageTitle: Goldfinch Carduelis carduelis by Corine Bliek
-imageLink: https://www.flickr.com/photos/147485441@N04/36219082540/in/photolist-Xbygom-23uqTAe-Tr6AXw-nQwWY8-UQSaZF-UiiwAU-2cSrGDi-27mF4Sv-pGfkEo-WzecAm-UyvC7K-TrqdJd-257aHj8-FctMSM-UKm6c5-YtSpxB-WTw1C8-21Tu84N-SbsVZf-21CKCRf-22F3aS6-USypJt-JayVgU-23gF51b-23JnT8R-ufaDB-UFGQEh-FjttMr-oNnw37-q7vmXk-GuhW9Q-nnyp3Z-YZeByw-ZcYpCj-WJCM1F-Ce2kES-a2CQWH-dCgkKP-24RwJTK-2a4BkP5-Tn6K1r-YbNPcD-YkK2aE-p23jPK-5f6zxo-dCzUTx-dJusaa-254au6w-Y1Kwor-TM1TmE
+image: /images/birds.jpg
+imageTitle: Stilt and Avocets, Soap Lake WA USA by sunrisesoup
+imageLink: https://flickr.com/photos/sunrisesoup/41008574104/in/photolist-25tMEn7-27u5JWP-29YfFb3-RmZSsP-25RZ9M6-Jkcnbr-MuR1m7-YTZDFZ-PVc2nZ-TKnDmo-XWJupa-ksReKU-zX3r9a-KBjbjm-21s37qq-HVf6wo-HZ5ChY-2cBxgKL-C5h2f9-AgN369-pfRyAn-qTZeLM-2cpYkHr-2e9eKs1-qfG2Fa-LhQWXt-29ieMTx-2ckwCPC-2d4d8Wz-pXd2pj-26vWSGq-NxqcXP-8E5yaZ-oze9NX-LJmFNS-NiNnXZ-q5q5u9-29LHByB-Zejxzi-qU9akP-JcdHYU-FwfbXJ-HiwzrQ-rkdJsq-oas93L-v2cimr-dt4jry-LvXnLd-K2GPJt-22VrEzf
 ---
 
 # Meeting documents
