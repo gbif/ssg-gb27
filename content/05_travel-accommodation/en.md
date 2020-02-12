@@ -1,9 +1,9 @@
 ---
 title: Travel and accommodation
-description: Learn more about the event along with other tips and pointers for those travelling to the United States
+description: Tips and pointers for those travelling to the United States
 image: /images/trolley.jpg
-imageTitle: Naturalis Biodiversity Center
-imageLink: 
+imageTitle: King Street Trolley, Old Town Alexandria, VA by K. Summerer for Visit Alexandria
+imageLink: https://visitalexva.imagerelay.com/ml/a71c73d9b1624e288215efa9d3fa7e14
 ---
 
 # Travel and accommodation
@@ -28,7 +28,9 @@ United States
 
 ## Hotels
 
-A block of rooms has been reserved at the meeting venue, the Westin Alexandria Old Town, at the discounted rate of $159 USD per night. We advice you to book early to take advantage of the dicounted rate as space is limited. The offer expires 21 August 2020.
+A block of rooms has been reserved at the meeting venue, the Westin Alexandria Old Town, at the discounted rate of $159 USD per night. 
+
+We advice you to book early to take advantage of the dicounted rate as space is limited. The offer expires 21 August 2020.
 
 **Westin Alexandria Old Town**
 400 Courthouse Square
@@ -41,6 +43,23 @@ Further hotel options are available at [visitalexandriava.com/hotels/](https://w
 
 
 ---
+
+## Travel requirements for entering the United States
+
+GB27 participants are responsible for preparing their own travel documentation requirements for entering the United States. 
+
+### Visa
+
+If you need a visa to enter the United States, please make sure to apply well in advance of the meeting. 
+Visa invitation letters can be provided as requested. 
+
+ADD INFORMATION FROM LOCAL ORGANIZER
+
+
+
+### Insurance
+
+Participants are advised to ensure appropriate travel insurance for travel to the United States.
 
 ## Arriving in the United States
 
@@ -94,22 +113,7 @@ King St - Old Town Metro Station
 
 ---
 
-## Travel requirements for entering the United States
 
-GB27 participants are responsible for preparing their own travel documentation requirements for entering the United States. 
-
-### Visa
-
-If you need a visa to enter the United States, please make sure to apply well in advance of the meeting. 
-Visa invitation letters can be provided as requested. 
-
-ADD INFORMATION FROM LOCAL ORGANIZER
-
-
-
-### Insurance
-
-Participants are advised to ensure appropriate travel insurance for travel to the United States.
 
 
 ### Getting around in Alexandria
@@ -129,31 +133,39 @@ Visit the following link for more information about getting around Alexandria: h
 
 ## General information
 
-•	Electricity (voltage and which plugs to use)
-•	For USA there are two associated plug types, types A and B. Plug type A is the plug which has two flat parallel pins and plug type B is the plug which has two flat parallel pins and a grounding pin. USA operates on a 120V supply voltage and 60Hz.
-•	Language
-•	English
-•	Money procedures (which currency is used, where to exchange money, where to find ATMs and which credit cards can be used)
-	United States Dollar
+### Electricity (voltage and which plugs to use)
+For USA there are two associated plug types, types A and B. Plug type A is the plug which has two flat parallel pins and plug type B is the plug which has two flat parallel pins and a grounding pin. USA operates on a 120V supply voltage and 60Hz.
+
+### Language
+English
+
+### Money procedures (which currency is used, where to exchange money, where to find ATMs and which credit cards can be used)
+United States Dollar
+
 	Currency exchange:
 	Bank of America with ATM: 0.2 miles(415 John Carlyle St, Alexandria, VA 22314)
 	Airport: https://www.flyreagan.com/dca/international-currency-exchange-0
 	Metro Currency Exchange (817 King St, Ste 206): http://www.metrocx.com/
 •	There is also an ATM in the lobby of the Westin hotel.
-•	Health (recommendation for inoculations, smoking rules, etc.)
+
+### Health (recommendation for inoculations, smoking rules, etc.)
 	There is no smoking allowed indoors.
 	Closest pharmacy to conference location: CVS Pharmacy at 1680 Duke Street Alexandria, VA
 •	Closest Walk-in Clinic/ Urgent Care: Alexandria VA Medical Walk-in Clinic & Urgent Care (526 N Henry St, Alexandria, VA 22314)
 •	Personal security (risk areas, code of conduct, what to do in case of emergencies)
 	iDigBio’s Code of Conduct: https://www.idigbio.org/content/idigbio-code-conduct
 •	Call 911 in an emergency.
-•	Telecommunication and internet (mobile phone networks, internet services)
-•	Opening hours (for banks and shops)
-•	Most businesses are open from 9-5.
-•	Tips and service gratuities (rules for tipping)
-•	15- 20% gratuity is customary at restaurants and not included with the final bill. With larger groups gratuity is often included with the bill. 
-•	Weather 
-•	The weather in September is highly variable. The average high is 81°F, the low 59°F.
+
+### Telecommunication and internet (mobile phone networks, internet services)
+
+### Opening hours (for banks and shops)
+Most businesses are open from 9-5.
+
+### Tips and service gratuities (rules for tipping)
+15- 20% gratuity is customary at restaurants and not included with the final bill. With larger groups gratuity is often included with the bill. 
+
+### Weather 
+The weather in September is highly variable. The average high is 81°F / 27°C, the low 59°F / 15°C.
 
 
 
@@ -163,7 +175,9 @@ Visit the following link for more information about getting around Alexandria: h
 
 ## Tourist information 
 
-https://www.visitalexandriava.com/
+The Visit Alexandria website [visitalexandriava.com](https://www.visitalexandriava.com/) has a lot of useful information for visitors. 
+
+The Alexandria Visitor Center is located at 221 King Street, Alexandria, VA 22314, tel. 703-838-5005 or 800-388-9119, ask@visitalexva.com.
 
 
 
