@@ -38,7 +38,7 @@ Please note that registration is not yet open.
 
 -----------------------
 
-### Sunday 20 September 2020
+### Sunday 20 September 2020 (GBIF committee meetings)
 
 **Budget Committee meeting**
 Time: 09:00-12:30
@@ -67,7 +67,7 @@ Venue: [The Westin Alexandria Old Town](https://www.marriott.com/hotels/travel/w
 
 -----------------------
 
-### Monday 21 September 2020
+### Monday 21 September 2020 (GB27 Day 1)
 
 **Governing Board meeting Day 1**
 Time: 09:00-17:00
@@ -78,7 +78,7 @@ Venue: [The Westin Alexandria Old Town](https://www.marriott.com/hotels/travel/w
 
 -----------------------
 
-### Tuesday 22 September 2020
+### Tuesday 22 September 2020 (GB27 Day 2)
 
 **Governing Board meeting Day 2**
 Time: 09:00-17:00
@@ -94,7 +94,7 @@ Venue: to be confirmed
 
 -----------------------
 
-### Wednesday 23 - Friday 25 September 2020
+### Wednesday 23 - Friday 25 September 2020 (Biodiversity Summit 2020)
 
 **Biodiversity Summit 2020**
 Venue: [The Westin Alexandria Old Town](https://www.marriott.com/hotels/travel/wasxw-the-westin-alexandria-old-town/)
