@@ -22,4 +22,6 @@ See the [programme page](https://gb27.gbif.org/en/programme/) for more details o
 
 ### Biodiversity Summit 2020
 
-Following the GB27 events, on 23-25 September 2020, the [Biodiversity Summit 2020](https://www.idigbio.org/content/biodiversity-summit-2020) will take place. GBIF delegates attending the Summit are kindly asked to register [here](https://www.eventbrite.com/e/biodiversity-summit-2020-tickets-85264844445).
+Following the GB27 events, on 23-25 September 2020, the [Biodiversity Summit 2020](https://www.idigbio.org/content/biodiversity-summit-2020) will take place. 
+
+GBIF delegates who wish to attend both the GB27 events and the Biodiversity Summit 2020 must remember to register [here](https://gb27.gbif.org/en/registration/) for the GB27 events and [here](https://www.eventbrite.com/e/biodiversity-summit-2020-tickets-85264844445) for the Biodiversity Summit 2020.
