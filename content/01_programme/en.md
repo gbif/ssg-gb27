@@ -30,10 +30,11 @@ templates:
 
 ## Summary of events
 
-Below is a summary of all the events associated with GB27. Please read the information carefully before registering. 
-More information will be added shortly. 
+Below is a summary of all the events associated with GB27. 
 
-Please note that registration is not yet open.  
+For more information on the criteria for attending the events, please read the ['General Terms and Conditions for the GB27 meeting and associated events'](https://gb27.gbif.org/en/registration/GB27_terms.pdf].  
+
+ 
 
 
 -----------------------
