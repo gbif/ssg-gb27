@@ -1,9 +1,9 @@
 ---
 title: Programme
 description: Programme the 27th meeting of the GBIF Governing Board 
-image: /images/flower2.jpg
-imageTitle: Douglas Meadowfoam by phoca2004
-imageLink: https://flickr.com/photos/phoca2004/33906747212/in/photolist-TEdWDS-24mp6Cv-24CRt7M-ZPze19-2bsTc5W-evXMmG-2fsyRZ4-2a83bzk-Stu7er-FXg8zH-21bjJr5-2b6oCki-YELKzw-2aWwC4D-24yGc2Q-294hvWB-tKyzLk-GXNb5f-2bkgdQL-uonGiY-CzFbfJ-GXN9nN-tc86nZ-24UMnVt-2cpHSBm-TBANhw-2hcuvFx-vhZAXm-qAqQUv-TWJDeV-RKxsv4-ofiQUN-aBJT9D-ouLG8u-4VqERc-5VfhxY-8iUqhz-LVBSzq-JbkTfx-HaG6md-2b9VddU-24YHLCV-5zC4NB-2g7oVhj-c5VDRs-2e6wD1k-Dh6SDq-aqLEJ-49uiLD-hvxUcC
+image: /images/cardinalis.jpg
+imageTitle: Northern Cardinal (Cardinalis cardinalis) by Ed Hass (CC BY-NC)
+imageLink: https://www.inaturalist.org/photos/59576732
 
 ---
 
