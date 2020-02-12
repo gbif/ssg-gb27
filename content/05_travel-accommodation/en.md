@@ -56,10 +56,11 @@ Visa invitation letters can be provided as requested.
 ADD INFORMATION FROM LOCAL ORGANIZER
 
 
-
 ### Insurance
 
 Participants are advised to ensure appropriate travel insurance for travel to the United States.
+
+---
 
 ## Arriving in the United States
 
@@ -118,22 +119,22 @@ King St - Old Town Metro Station
 
 ### Getting around in Alexandria
 
-Visit the following link for more information about getting around Alexandria: https://www.visitalexandriava.com/plan/maps-and-transportation/
-•	Walk King Street: The main thoroughfare in Old Town, bustling King Street is a walkable mile recognized as one of the “Great Streets” of America.
-•	Free King Street Trolley: Stops every two blocks from the King St-Old Town Metrorail station to the Potomac waterfront.
-•	Parking: You'll find plenty of street and garage parking in Old Town, plus free parking in Del Ray and many other parts of the city.
-•	Metrorail & Bus: Public transportation that will take you around Alexandria and into D.C.
-•	Water Taxis: Skip the traffic and dock just steps from the Wharf, Georgetown, the National Mall, Nationals Stadium or National Harbor.
-•	Bikes: Rent a bike and pedal along the waterfront to George Washington’s Mount Vernon or into D.C.  
-•	Taxis & Carshare: No need to bring your own car; get one in Alexandria or find out how to get a cab.
+Visit the following link for more information about getting around Alexandria: [https://www.visitalexandriava.com/plan/maps-and-transportation/](https://www.visitalexandriava.com/plan/maps-and-transportation/).
 
+- Walk King Street: The main thoroughfare in Old Town, bustling King Street is a walkable mile recognized as one of the “Great Streets” of America.
+- Free King Street Trolley: Stops every two blocks from the King St-Old Town Metrorail station to the Potomac waterfront.
+- Parking: You'll find plenty of street and garage parking in Old Town, plus free parking in Del Ray and many other parts of the city.
+- Metrorail & Bus: Public transportation that will take you around Alexandria and into D.C.
+- Water Taxis: Skip the traffic and dock just steps from the Wharf, Georgetown, the National Mall, Nationals Stadium or National Harbor.
+- Bikes: Rent a bike and pedal along the waterfront to George Washington’s Mount Vernon or into D.C.  
+- Taxis & Carshare: No need to bring your own car; get one in Alexandria or find out how to get a cab.
 
 
 ---
 
 ## General information
 
-### Electricity (voltage and which plugs to use)
+### Electricity
 For USA there are two associated plug types, types A and B. Plug type A is the plug which has two flat parallel pins and plug type B is the plug which has two flat parallel pins and a grounding pin. USA operates on a 120V supply voltage and 60Hz.
 
 ### Language
@@ -142,19 +143,22 @@ English
 ### Money procedures (which currency is used, where to exchange money, where to find ATMs and which credit cards can be used)
 United States Dollar
 
-	Currency exchange:
-	Bank of America with ATM: 0.2 miles(415 John Carlyle St, Alexandria, VA 22314)
-	Airport: https://www.flyreagan.com/dca/international-currency-exchange-0
-	Metro Currency Exchange (817 King St, Ste 206): http://www.metrocx.com/
-•	There is also an ATM in the lobby of the Westin hotel.
+Currency exchange:
+Bank of America with ATM: 0.2 miles(415 John Carlyle St, Alexandria, VA 22314)
+Airport: https://www.flyreagan.com/dca/international-currency-exchange-0
+Metro Currency Exchange (817 King St, Ste 206): http://www.metrocx.com/
 
-### Health (recommendation for inoculations, smoking rules, etc.)
-	There is no smoking allowed indoors.
-	Closest pharmacy to conference location: CVS Pharmacy at 1680 Duke Street Alexandria, VA
-•	Closest Walk-in Clinic/ Urgent Care: Alexandria VA Medical Walk-in Clinic & Urgent Care (526 N Henry St, Alexandria, VA 22314)
-•	Personal security (risk areas, code of conduct, what to do in case of emergencies)
-	iDigBio’s Code of Conduct: https://www.idigbio.org/content/idigbio-code-conduct
-•	Call 911 in an emergency.
+There is also an ATM in the lobby of the Westin hotel.
+
+### Health
+There is no smoking allowed indoors.
+Closest pharmacy to conference location: CVS Pharmacy at 1680 Duke Street Alexandria, VA
+Closest Walk-in Clinic/ Urgent Care: Alexandria VA Medical Walk-in Clinic & Urgent Care (526 N Henry St, Alexandria, VA 22314)
+
+### Personal security (risk areas, code of conduct, what to do in case of emergencies)
+iDigBio’s Code of Conduct: https://www.idigbio.org/content/idigbio-code-conduct
+
+Call 911 in an emergency.
 
 ### Telecommunication and internet (mobile phone networks, internet services)
 
@@ -166,9 +170,6 @@ Most businesses are open from 9-5.
 
 ### Weather 
 The weather in September is highly variable. The average high is 81°F / 27°C, the low 59°F / 15°C.
-
-
-
 
 
 ---
