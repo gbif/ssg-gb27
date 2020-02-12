@@ -2,7 +2,7 @@
 title: Home
 description: Welcome the 27rd meeting of the GBIF Governing Board 
 image: /images/flower1.jpg
-imageTitle: Yellow meadow by Sathish J
+imageTitle: Yellow meadow by Sathish J (CC BY-NC-ND 2.0)
 imageLink: https://flickr.com/photos/sathishcj/6882692726/in/photolist-bucAKY-c1jEYN-9dC7os-24fqqHN-RW2JKX-21ZD8gA-Ftye4f-292mAi6-YwaYB5-22hGqCJ-29128ss-YwaYP9-2aNMUHi-VzXVXo-KM3Nnt-YwaZaj-YwaZ6G-C1SPEE-24o6J51-28cpYRD-2a83bzk-ZcBYD9-Stu7er-BN9q9Y-26oK4Po-YwaZcy-M55dEA-26oK4RC-26sdyUz-2cPv6rS-2cTTjL8-27p5a1D-2bvc1VH-28X3HZj-X5kgwc-FEfe1q-ShiUhA-21dKx5N-23rQirN-SSagHF-vLVXoG-TWJDeV-24JqgTY-wqYKVb-i6SyhK-qST7Jk-Crmzgi-rqNTMy-rLdojo-TGRseS
 ---
 
