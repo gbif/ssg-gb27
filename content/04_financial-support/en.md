@@ -10,9 +10,9 @@ imageLink: https://www.flickr.com/photos/fotografiecor/26050537888/in/photolist-
 
 The GBIF Secretariat offers the possibility of applying for partial funding to attend the Governing Board meeting on 21-22 September 2020. Support may include partial funding of econony-class flight tickets and an accommodation subsidy. 
 
-Partial financial support for the Governing Board meeting is only available for GBIF Voting Participants representing developing countries. The country must be in good standing in regard to its GBIF financial contribution. 
+Partial financial support for the Governing Board meeting is only available for GBIF Voting Participants representing developing countries. The Voting Participant country must be in good standing in regard to its GBIF financial contribution. 
 
-Developing countries are defined as countries whose per capita GDP was less than USD 13,500 according to the 2013 World Bank figures, the benchmark used to apply discounted contributions in the current GBIF funding period (2017-2021). See list of developing GBIF country members here. 
+Developing countries are defined as countries whose per capita GDP was less than USD 13,500 according to the 2013 World Bank figures, the benchmark used to apply discounted contributions in the current GBIF funding period (2017-2021). See list of developing GBIF country members [here](xxxx). 
 
 **Please note that funding will not be provided in advance of the meeting but by reimbursement after the meeting. If selected for funding, the GBIF Secretariat will send you the reimbursement form which must be submitted within one month after the meeting.**
 
