@@ -12,7 +12,7 @@ _<p align="center">The 27th meeting of the GBIF Governing Board and associated e
  Alexandria, Virginia, the United States
   20-22 September 2020_</p>
   
-[iDigBio](https://www.idigbio.org/) and the [Smithsonian](https://www.si.edu/), on behalf of the United States, are pleased to host the 27th meeting (GB27) of the GBIF Governing Board in Alexandria, Virginia. 
+[iDigBio](https://www.idigbio.org/) and the [Smithsonian Institution, National Museum of Natural History](https://www.si.edu/museums/natural-history-museum), on behalf of the United States, are pleased to host the 27th meeting (GB27) of the GBIF Governing Board in Alexandria, Virginia. 
 
 The following GB27 events will take place:
 •	20 September 2020 GBIF committee meetings
