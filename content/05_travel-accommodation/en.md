@@ -38,6 +38,11 @@ Alexandria, Virginia 22314
 United States
 [marriott.com/hotels/travel/wasxw-the-westin-alexandria-old-town/](https://www.marriott.com/hotels/travel/wasxw-the-westin-alexandria-old-town/)
 
+Parking at Westin Alexandria:
+Valet parking, fee: 36 USD daily
+Only Valet parking is available on-site. 6'8" is height limit.
+
+
 **Other hotels**
 Further hotel options are available at [visitalexandriava.com/hotels/](https://www.visitalexandriava.com/hotels/).
 
@@ -46,14 +51,16 @@ Further hotel options are available at [visitalexandriava.com/hotels/](https://w
 
 ## Travel requirements for entering the United States
 
-GB27 participants are responsible for preparing their own travel documentation requirements for entering the United States. 
+**GB27 attendees are responsible for preparing their own travel documentation required for entering the United States.** 
 
 ### Visa
 
-If you need a visa to enter the United States, please make sure to apply well in advance of the meeting. 
-Visa invitation letters can be provided as requested. 
+Please note that it can take some time to obtain a US visa. The visa process normally has several steps so it is important to start the process as quickly as possible. 
 
-ADD INFORMATION FROM LOCAL ORGANIZER
+Please visit the website of the [US Department of State](https://travel.state.gov/content/travel/en/us-visas.html) to learn more about the visa application procedure. 
+
+Visa invitation letters can be provided as requested. Please contact [GB27@gbif.org](mailto:GB27@gbif.org) if you need an invitation letter. 
+
 
 
 ### Insurance
@@ -66,60 +73,70 @@ Participants are advised to ensure appropriate travel insurance for travel to th
 
 ### Airports
 
-Ronald Reagan Washington National Airport (DCA) **This is the recommended airport for people to fly into**
+**Ronald Reagan Washington National Airport (DCA) **
 
-Airport Phone: +1 703-417-8000
-Hotel direction: 4.4 miles NE
+Ronald Reagan Washington National Airport provides domestic and international air service for the Washington DC metropolitan and surrounding regions. The local host recommends people to fly into this airport, if possible, as it offers easy access to the meeting venue. 
 
-Subway station: Ronald Reagan Washington National Airport Metro Station to Eisenhower or King St. Metro Station: Yellow line towards Huntington, 9 mins, Under $5 one way OR Blue line toward Franconia/ Springfield to King St. Metro Station
+The meeting venue, Westin Alexandria Old Town, is located 4.4 miles NE of the Ronald Reagan Washington National Airport. 
+
+*Website:* [flyreagan.com/](https://www.flyreagan.com/dca/reagan-national-airport) 
+
+*Airport Phone:* +1 703-417-8000
+
+*Subway station:* Ronald Reagan Washington National Airport Metro Station to Eisenhower or King St. Metro Station: Yellow line towards Huntington, 9 mins, Under $5 one way OR Blue line toward Franconia/ Springfield to King St. Metro Station
 Estimated taxi fare: 30 USD (one way)
 
-Driving directions from DCA to conference location (Westin Alexandria):
+*Driving directions from DCA to conference location (Westin Alexandria):*
 Drive from George Washington Memorial Pkwy to Alexandria. Head southeast. Turn right toward S Smith Blvd. Continue onto S Smith Blvd. Merge onto George Washington Memorial Pkwy. Get on US-1 S/N Henry St from Slaters Ln. Turn right toward Slaters Ln (signs for Slaters Lane/Bashford Lane/W Abingdon). Turn right at the 1st cross street onto Slaters Ln. Use the right lane to take the ramp onto US-1 S/N Henry St. Continue on US-1 S/N Henry St to John Carlyle St. Merge onto US-1 S/N Henry St. Turn right onto Duke St. Take Jamieson Ave to Courthouse Square. Turn left onto John Carlyle St. Turn right onto Jamieson Ave. Turn left onto Courthouse Square. Destination will be on the left. The Westin Alexandria, 400 Courthouse Square, Alexandria, VA 22314.
 
-[Washington Dulles International Airport (IAD)](https://www.flydulles.com/iad/dulles-international-airport)
+**Washington Dulles International Airport (IAD)**
+Washington Dulles International Airport is a major hub for domestic and international air travel 
 
-Airport Phone: +1 703-572-2700
-Hotel direction: 30 miles NW (about an hour away)
+The meeting venue, Westin Alexandria Old Town, is located 30 miles NW (about an hour away) of the Washington Dulles International Airport.  
 
-Estimated taxi fare: $50 - $100 USD (one way)
-Bus service, fee: 25 USD (one way)
+*Website:* [flydulles.com](https://www.flydulles.com/iad/dulles-international-airport)
 
-Driving directions from IAD to Westin:
+*Airport Phone:* +1 703-572-2700
+
+*Estimated taxi fare:* $50 - $100 USD (one way)
+
+*Bus service, fee:* 25 USD (one way)
+
+*Driving directions to conference location (Westin Alexandria):*
 Continue to Dulles Access Rd. Head west on Saarinen Cir toward Copilot Way. Continue straight to stay on Saarinen Cir. Follow Dulles Access Rd and I-495 E to Eisenhower Ave in Alexandria. Take exit 176B from I-495 E/I-95 N. Continue onto Dulles Access Rd. Keep left to stay on Dulles Access Rd. Use the right 2 lanes to take exit 18 toward Richmond. Merge onto I-495 S. Keep left to continue on I-495 E. Keep right at the fork to continue on I-495 E/I-95 N, follow signs for Alexandria. Use the right lane to take exit 176B for VA-241 N/Telegraph Rd/Eisenhower Ave toward Alexandria. Keep right, follow signs for Eisenhower Avenue. Continue on Eisenhower Ave. Drive to Courthouse Square. Turn right onto Eisenhower Ave. Turn left onto Mill Rd. Turn right onto Jamieson Ave. Turn right onto Courthouse Square. Destination will be on the left 128 ft. The Westin Alexandria, 400 Courthouse Square, Alexandria, VA 22314.
 
-(Baltimore/Washington International Thurgood Marshall Airport (BWI))(https://www.bwiairport.com/)
-Hotel direction: 41 miles NE
-Estimated taxi fare: 90 USD (one way)
-Driving directions from BWI to Westin:
+
+**Baltimore/Washington International Thurgood Marshall Airport (BWI)**
+
+The meeting venue, Westin Alexandria Old Town, is located 41 miles NE of the Baltimore/Washington International Thurgood Marshall Airport. 
+
+*Website:* [bwiairport.com](https://www.bwiairport.com/)
+
+*Estimated taxi fare:* 90 USD (one way)
+
+*Driving directions from BWI to conference location (Westin Alexandria):*
 Continue to I-195 W. Head southeast on Friendship Rd. Keep left to continue on Service Rd Lower Level. continue on Friendship Rd. Take MD-295 S, to Pershing Ave in Alexandria. Take exit 176B from I-495 S/I-95 S. Continue onto I-195 W. Take exit 2B for MD-295 S toward Washington. Merge onto MD-295 S. Continue onto Baltimore-Washington Pkwy. left to stay on Baltimore-Washington Pkwy. Continue onto MD-201. Continue onto State Hwy 295. Continue onto Anacostia Fwy/Kenilworth Ave Fwy. Continue onto I-295/Anacostia Fwy S/Kenilworth Ave Fwy. Take exit 1C to merge onto I-495 S/I-95 S toward Richmond. Passing through District of Columbia. Entering Virginia. exit 176B for VA-241 N/Telegraph Rd toward Alexandria. Keep right at the fork. Take Mill Rd to Courthouse Square. Continue onto Pershing Ave. left onto Stovall St. right onto Mill Rd. At Residence Inn by Marriott Alexandria Old Town South at Carlyle, continue onto Jamieson Ave. right onto Courthouse Square. Destination will be on the left. The Westin Alexandria.
 
-Parking at Westin Alexandria:
-Valet parking, fee: 36 USD daily
-Only Valet parking is available on-site. 6'8" is height limit.
-
-Other Transportation:
-
-Bus Station
-DASH AT 7 - Jamieson Ave
-0.1 miles W from conference hotel
-
-Subway Station
-Eisenhower Metro
-0.5 miles W from hotel
-
-King St - Old Town Metro Station
-0.4 miles SW from hotel
 
 
 ---
 
 
-
-
 ### Getting around in Alexandria
 
 Visit the following link for more information about getting around Alexandria: [https://www.visitalexandriava.com/plan/maps-and-transportation/](https://www.visitalexandriava.com/plan/maps-and-transportation/).
+
+
+*Bus Station*
+DASH AT 7 - Jamieson Ave
+0.1 miles W from conference hotel
+
+*Subway Station*
+Eisenhower Metro
+0.5 miles W from hotel
+
+*King St - Old Town Metro Station*
+0.4 miles SW from hotel
 
 - Walk King Street: The main thoroughfare in Old Town, bustling King Street is a walkable mile recognized as one of the “Great Streets” of America.
 - Free King Street Trolley: Stops every two blocks from the King St-Old Town Metrorail station to the Potomac waterfront.
@@ -134,41 +151,41 @@ Visit the following link for more information about getting around Alexandria: [
 
 ## General information
 
-### Electricity
+**Electricity**
 For USA there are two associated plug types, types A and B. Plug type A is the plug which has two flat parallel pins and plug type B is the plug which has two flat parallel pins and a grounding pin. USA operates on a 120V supply voltage and 60Hz.
 
-### Language
+**Language**
 English
 
-### Money procedures (which currency is used, where to exchange money, where to find ATMs and which credit cards can be used)
+**Money procedures (which currency is used, where to exchange money, where to find ATMs and which credit cards can be used)**
 United States Dollar
 
-Currency exchange:
+**Currency exchange:**
 Bank of America with ATM: 0.2 miles(415 John Carlyle St, Alexandria, VA 22314)
 Airport: https://www.flyreagan.com/dca/international-currency-exchange-0
 Metro Currency Exchange (817 King St, Ste 206): http://www.metrocx.com/
 
 There is also an ATM in the lobby of the Westin hotel.
 
-### Health
+**Health**
 There is no smoking allowed indoors.
 Closest pharmacy to conference location: CVS Pharmacy at 1680 Duke Street Alexandria, VA
 Closest Walk-in Clinic/ Urgent Care: Alexandria VA Medical Walk-in Clinic & Urgent Care (526 N Henry St, Alexandria, VA 22314)
 
-### Personal security (risk areas, code of conduct, what to do in case of emergencies)
+** Personal security (risk areas, code of conduct, what to do in case of emergencies)**
 iDigBio’s Code of Conduct: https://www.idigbio.org/content/idigbio-code-conduct
 
 Call 911 in an emergency.
 
-### Telecommunication and internet (mobile phone networks, internet services)
+**Telecommunication and internet (mobile phone networks, internet services)**
 
-### Opening hours (for banks and shops)
+**Opening hours (for banks and shops)**
 Most businesses are open from 9-5.
 
-### Tips and service gratuities (rules for tipping)
+**Tips and service gratuities (rules for tipping)**
 15- 20% gratuity is customary at restaurants and not included with the final bill. With larger groups gratuity is often included with the bill. 
 
-### Weather 
+**Weather**
 The weather in September is highly variable. The average high is 81°F / 27°C, the low 59°F / 15°C.
 
 
@@ -178,7 +195,7 @@ The weather in September is highly variable. The average high is 81°F / 27°C, 
 
 The Visit Alexandria website [visitalexandriava.com](https://www.visitalexandriava.com/) has a lot of useful information for visitors. 
 
-The Alexandria Visitor Center is located at 221 King Street, Alexandria, VA 22314, tel. 703-838-5005 or 800-388-9119, ask@visitalexva.com.
+The Alexandria Visitor Center is located at 221 King Street, Alexandria, VA 22314, tel. 703-838-5005 or 800-388-9119, [ask@visitalexva.com](mailto:ask@visitalexva.com).
 
 
 
