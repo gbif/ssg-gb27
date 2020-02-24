@@ -1,7 +1,6 @@
 ---
 title: Home
 description: Welcome the 27rd meeting of the GBIF Governing Board 
-image: /images/flower1.jpg
 image: /images/cardinalis.jpg
 imageTitle: Northern Cardinal (Cardinalis cardinalis) by Ed Hass (CC BY-NC)
 imageLink: https://www.inaturalist.org/photos/59576732
