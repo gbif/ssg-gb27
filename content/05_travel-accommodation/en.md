@@ -28,7 +28,7 @@ United States
 
 ## Hotels
 
-A block of rooms has been reserved at the meeting venue, the Westin Alexandria Old Town, at the discounted rate of $159 USD per night. 
+A block of rooms has been reserved at the meeting venue, the Westin Alexandria Old Town, at the discounted rate of $159 USD per night. The rate is ex taxes and breakfast. 
 
 We advice you to book early to take advantage of the dicounted rate as space is limited. The offer expires 21 August 2020.
 
@@ -55,7 +55,7 @@ Further hotel options are available at [visitalexandriava.com/hotels/](https://w
 
 ### Visa
 
-Please note that it can take some time to obtain a US visa. The visa process normally has several steps so it is important to start the process as quickly as possible. 
+Please note that it can take some time to obtain a US visa. **The visa process normally has several steps so it is important to start the process as quickly as possible.** 
 
 Please visit the website of the [US Department of State](https://travel.state.gov/content/travel/en/us-visas.html) to learn more about the visa application procedure. 
 
@@ -122,29 +122,26 @@ Continue to I-195 W. Head southeast on Friendship Rd. Keep left to continue on S
 ---
 
 
-### Getting around in Alexandria
+## Getting around in Alexandria
 
 Visit the following link for more information about getting around Alexandria: [https://www.visitalexandriava.com/plan/maps-and-transportation/](https://www.visitalexandriava.com/plan/maps-and-transportation/).
 
+*Walk King Street:* The main thoroughfare in Old Town, bustling King Street is a walkable mile recognized as one of the “Great Streets” of America.
 
-*Bus Station*
-DASH AT 7 - Jamieson Ave
-0.1 miles W from conference hotel
+*Free King Street Trolley:* Stops every two blocks from the King St-Old Town Metrorail station to the Potomac waterfront.
 
-*Subway Station*
-Eisenhower Metro
-0.5 miles W from hotel
+*Parking:* You'll find plenty of street and garage parking in Old Town, plus free parking in Del Ray and many other parts of the city.
 
-*King St - Old Town Metro Station*
-0.4 miles SW from hotel
+*Metrorail & Bus:* Public transportation that will take you around Alexandria and into D.C.
+- Bus Station, DASH AT 7 - Jamieson Ave, 0.1 miles W from Westin Alexandria hotel
+- Subway Station, Eisenhower Metro, 0.5 miles W from Westin Alexandria hotel
+- King St - Old Town Metro Station, 0.4 miles SW from hotel
 
-- Walk King Street: The main thoroughfare in Old Town, bustling King Street is a walkable mile recognized as one of the “Great Streets” of America.
-- Free King Street Trolley: Stops every two blocks from the King St-Old Town Metrorail station to the Potomac waterfront.
-- Parking: You'll find plenty of street and garage parking in Old Town, plus free parking in Del Ray and many other parts of the city.
-- Metrorail & Bus: Public transportation that will take you around Alexandria and into D.C.
-- Water Taxis: Skip the traffic and dock just steps from the Wharf, Georgetown, the National Mall, Nationals Stadium or National Harbor.
-- Bikes: Rent a bike and pedal along the waterfront to George Washington’s Mount Vernon or into D.C.  
-- Taxis & Carshare: No need to bring your own car; get one in Alexandria or find out how to get a cab.
+*Water Taxis:* Skip the traffic and dock just steps from the Wharf, Georgetown, the National Mall, Nationals Stadium or National Harbor.
+
+*Bikes:* Rent a bike and pedal along the waterfront to George Washington’s Mount Vernon or into D.C.  
+
+*Taxis & Carshare:* No need to bring your own car; get one in Alexandria or find out how to get a cab.
 
 
 ---
