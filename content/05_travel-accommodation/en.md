@@ -151,6 +151,14 @@ Visit the following link for more information about getting around Alexandria: [
 **Electricity**
 For USA there are two associated plug types, types A and B. Plug type A is the plug which has two flat parallel pins and plug type B is the plug which has two flat parallel pins and a grounding pin. USA operates on a 120V supply voltage and 60Hz.
 
+```styledYaml
+images: 
+- title: US plug types
+  url: /images/GB26_group_photo_small.jpg
+  link: 
+```
+
+
 **Language**
 English
 
