@@ -1,9 +1,9 @@
 ---
 title: Meeting documents
 description: Official meeting documents for GB27
-image: /images/birds.jpg
-imageTitle: Stilt and Avocets, Soap Lake WA USA by sunrisesoup
-imageLink: https://flickr.com/photos/sunrisesoup/41008574104/in/photolist-25tMEn7-27u5JWP-29YfFb3-RmZSsP-25RZ9M6-Jkcnbr-MuR1m7-YTZDFZ-PVc2nZ-TKnDmo-XWJupa-ksReKU-zX3r9a-KBjbjm-21s37qq-HVf6wo-HZ5ChY-2cBxgKL-C5h2f9-AgN369-pfRyAn-qTZeLM-2cpYkHr-2e9eKs1-qfG2Fa-LhQWXt-29ieMTx-2ckwCPC-2d4d8Wz-pXd2pj-26vWSGq-NxqcXP-8E5yaZ-oze9NX-LJmFNS-NiNnXZ-q5q5u9-29LHByB-Zejxzi-qU9akP-JcdHYU-FwfbXJ-HiwzrQ-rkdJsq-oas93L-v2cimr-dt4jry-LvXnLd-K2GPJt-22VrEzf
+image: /images/scolia_dubia2.jpg
+imageTitle: Blue-winged Scoliid Wasp (Scolia dubia) by tiluchi
+imageLink: https://www.inaturalist.org/observations/35491896
 ---
 
 # Meeting documents
