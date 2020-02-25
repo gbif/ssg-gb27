@@ -2,7 +2,7 @@
 title: Meeting documents
 description: Official meeting documents for GB27
 image: /images/scolia_dubia2.jpg
-imageTitle: Blue-winged Scoliid Wasp (Scolia dubia) by tiluchi
+imageTitle: Blue-winged Scoliid Wasp (Scolia dubia) by tiluchi (CC BY-NC 4.0)
 imageLink: https://www.inaturalist.org/observations/35491896
 ---
 
