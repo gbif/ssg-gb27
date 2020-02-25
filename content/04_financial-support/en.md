@@ -2,8 +2,8 @@
 title: Financial support
 description: The GBIF Secretariat offers the possibility to apply for partial funding to attend the Governing Board meeting.
 image: /images/fungi.jpg
-imageTitle: bla bla bla
-imageLink: https://www.flickr.com/photos/fotografiecor/26050537888/in/photolist-FFZPjY-8DeQMj-8QYtUe-dGQm48-dmX1en-8QYukD-3c4Xud-5WG1MS-5sVjE9-5zwurF-2ciXv9P-8H6yiw-XM69fY-5N9MeT-cQ7snY-29VMAmV-8QYsQi-qrHeF-3bZujt-aoxw3Y-mFPNu-5BGqZr-5zAK61-qrDxY-d4dMw3-8NTyRi-5zAHYw-8DeJxm-mFPpf-8R2zc3-6ddbAz-8CLT6a-5zAHGS-dq5XGq-5zwtFP-9bLY3g-2aC5LET-Z8LjaG-qU79Ho-EfqcHz-dgSmMm-5UqnNY-dqdyLH-fGaoTc-YHAYPS-6rxWG-8CgnrX-6oDC8-4BPRA9-8CjsAN
+imageTitle: Slime  Mould by Katja Schulz (CC BY 2.0)
+imageLink: https://flickr.com/photos/treegrow/25208128567/in/photolist-Epyfok-261j7Do-WDWunJ-S9JEBC-23ZPRTo-XDsmTv-SACJma-RXofme-SJUv7x-2cTg1fc-TCYJhR-GspK8a-Vs2fY6-23HogZE-JVJ8gc-Z1b1iq-ZRJGEE-2f2cckH-Hw2Qs9-25VH2VD-XxVjYd-23HogK1-FftmZ3-242rM9s-26xQx37-ZKAYtL-25pRmBy-RXog84-VJRxJn-FVLLPu-22vnE47-2cNTLow-21maXs7-24QQAox-F2vyZi-ZX77WG-257acXt-29Q5R2q-TCYJcR-22cRKBU-TCYJk6-24Eiion-JC9rfv-23T77WS-2fNZy2w-hiEKZT-22iDNNq-ZPze19-23APWUq-28wVZ6b
 ---
 
 # Financial support
