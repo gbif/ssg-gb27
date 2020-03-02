@@ -73,6 +73,13 @@ Visa invitation letters can be provided as requested. Please contact [GB27@gbif.
 
 Participants are advised to ensure appropriate travel insurance for travel to the United States.
 
+
+
+### Coronavirus (COVID-19)
+
+All participants are encouraged stay updated on the latest development of the Coronavirus (COVID-19). Please check your local health autorities and also the webiste of the [US Department of State](https://travel.state.gov/content/travel.html) for any news updates. 
+
+
 ---
 
 ## Arriving in the United States
