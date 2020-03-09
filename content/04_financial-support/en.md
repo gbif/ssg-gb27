@@ -20,8 +20,7 @@ The application process is now open.
 
 Download the application form here. 
 
-Deadline for applying is **xxx xxxxx 2020**.
+Deadline for applying is **1 June 2020**.
 
 The GBIF Secretariat will inform applicants about the outcome of their applications shortly after the deadline. 
-
 
