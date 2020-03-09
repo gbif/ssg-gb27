@@ -39,7 +39,7 @@ For more information on the criteria for attending the events, please read the [
 
 -----------------------
 
-### Sunday 20 September 2020 (GBIF committee meetings)
+### Sunday 20 September 2020 (GBIF committee meetings and Icebreaker)
 
 **Budget Committee meeting**
 Time: 09:00-12:30
@@ -66,9 +66,15 @@ Venue: [The Westin Alexandria Old Town](https://www.marriott.com/hotels/travel/w
 *The meeting is open to members of the GBIF Executive Committee*
 
 
+**Icebreaker**
+Time: 19:00-21:00
+Venue: [The Westin Alexandria Old Town](https://www.marriott.com/hotels/travel/wasxw-the-westin-alexandria-old-town/)
+
+*All committee members, Governing Board delegates and invited observers are invited to join the Icebreaker. *
+
 -----------------------
 
-### Monday 21 September 2020 (GB27 Day 1)
+### Monday 21 September 2020 (GB27 Day 1 and Dinner)
 
 **Governing Board meeting Day 1**
 Time: 09:00-17:00
@@ -76,6 +82,12 @@ Venue: [The Westin Alexandria Old Town](https://www.marriott.com/hotels/travel/w
 
 *The meeting is open to Governing Board delegates and invited observers*
 
+
+**Dinner**
+Time: 19:00-21:00
+Venue: [The Westin Alexandria Old Town](https://www.marriott.com/hotels/travel/wasxw-the-westin-alexandria-old-town/)
+
+*All committee members, Governing Board delegates and invited observers are invited to join the Dinner. *
 
 -----------------------
 
