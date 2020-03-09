@@ -11,7 +11,7 @@ Before registering, we kindly ask you to read the requirements for registering f
 
 Please note that your registration for the GBIF events is not considered complete until you receive a confirmation email from the GBIF Secretariat, which will list the events for which you have successfully registered. 
 
-Click [here](xxxx] to register for the GBIF GB27 events. 
+Click **[here]**(https://docs.google.com/forms/d/e/1FAIpQLSf4Q6gK-0fhocprcrPFbXIren7lvIsXDIhPrU8K_mHimxFVJQ/viewform?usp=sf_link) to register for the GBIF GB27 events. 
 
 The GB27 registration closes on **6 September 2020**.
 
