@@ -11,12 +11,11 @@ Before registering, we kindly ask you to read the requirements for registering f
 
 Please note that your registration for the GBIF events is not considered complete until you receive a confirmation email from the GBIF Secretariat, which will list the events for which you have successfully registered. 
 
-Click **[here]**(https://docs.google.com/forms/d/e/1FAIpQLSf4Q6gK-0fhocprcrPFbXIren7lvIsXDIhPrU8K_mHimxFVJQ/viewform?usp=sf_link) to register for the GBIF GB27 events. 
+Register **[here](https://docs.google.com/forms/d/e/1FAIpQLSf4Q6gK-0fhocprcrPFbXIren7lvIsXDIhPrU8K_mHimxFVJQ/viewform?usp=sf_link)** for the GBIF GB27 events. 
 
 The GB27 registration closes on **6 September 2020**.
 
 If you wish to attend the [Biodiversity Summit 2020](https://www.idigbio.org/content/biodiversity-summit-2020), please click [here](https://www.eventbrite.com/e/biodiversity-summit-2020-tickets-85264844445) to register. 
-
 
 
 
