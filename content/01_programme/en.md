@@ -32,7 +32,7 @@ templates:
 
 Below is a summary of all the events associated with GB27. 
 
-For more information on the criteria for attending the events, please read the ['General Terms and Conditions for the GB27 meeting and associated events'](https://gb27.gbif.org/en/registration/GB27_terms.pdf].  
+For more information on the criteria for attending the events, please read the ['General Terms and Conditions for the GB27 meeting and associated events'](https://gb27.gbif.org/en/registration/GB27_terms.pdf).  
 
  
 
